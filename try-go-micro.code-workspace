@@ -1,0 +1,28 @@
+{
+	"folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "front-end"
+    },
+    {
+      "path": "broker-service"
+    },
+    {
+      "path": "authentication-service"
+    },
+    {
+      "path": "logger-service"
+    },
+    {
+      "path": "mail-service"
+    },
+    {
+      "path": "listener-service"
+    }
+  ],
+	"settings": {
+		"editor.tabSize": 2
+	}
+}

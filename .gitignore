@@ -1,0 +1,10 @@
+db-data
+caddy_config
+caddy_data
+authentication-service/authApp
+broker-service/brokerApp
+front-end/frontApp
+front-end/frontApp.exe
+listener-service/listenerApp
+logger-service/loggerServiceApp
+mail-service/mailerApp
